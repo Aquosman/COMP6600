@@ -1,0 +1,7 @@
+keywords:
+
+Heuristics
+Simulated Annealing
+Hill climbing
+MDP
+Alpha-Beta pruning

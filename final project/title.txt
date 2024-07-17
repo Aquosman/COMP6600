@@ -1,0 +1,3 @@
+title of project:
+
+Gomoku Artificial Intelligence Project
